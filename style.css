@@ -50,6 +50,8 @@ header h3 {
 
 main {
     display: block;
+    position: relative;
+    top: 2vw;
     border: 10px solid #1D1A21;
     background-color: #131115;
 }
@@ -65,19 +67,6 @@ main {
     width: 100%;
 }
 
-/*
-.gallery {
-    display: flex;
-    width: 100%;
-    padding: 1vw;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: #D21F3C;
-    border: 2px white solid;
-}
-*/
-
 .gallery-container {
     display: flex;
     width: 100%;
@@ -90,6 +79,7 @@ main {
 h2 {
     background-color: #E9D92E;
     margin: 0 auto;
+    padding-top: 2vw;
     font-size: 6vw;
     text-align: center;
     text-transform: uppercase;
