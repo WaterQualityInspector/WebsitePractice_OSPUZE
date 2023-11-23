@@ -145,19 +145,20 @@ h2 {
 footer {
     display: grid;
     grid-template-columns: 3fr 1fr;
-    gap: 5vw;
-    border: 20px solid #1D1A21;
+    gap: 10vw;
+    height: 6vw;
+    border: 1.5vw solid #1D1A21;
     background-color: #555358;
-    justify-content: center;
-    justify-items: center;
+    justify-content: space-between;
+    justify-items: left;
     align-items: center;
     align-content: center;
     color: white;
-    padding: 0.5vw 2vw;
+    padding: 0.5vw;
 }
 
 footer p {
-    font-size: 2.25vw;
+    font-size: 1.2vw;
     text-align: left;
     text-transform: uppercase;
     line-height: 1.5;
@@ -165,6 +166,7 @@ footer p {
     color: white;
     letter-spacing: 0.1vw;
     font-family: "Saira ExtraCondensed", sans-serif;
+    padding-left: 1vw;
 }
 
 a {
@@ -185,6 +187,11 @@ a {
     .title-text {
         justify-self: center;
     }
+
+    footer {
+        display: none;
+    }
+
 }
 
 
