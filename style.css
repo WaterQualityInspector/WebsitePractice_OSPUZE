@@ -29,10 +29,6 @@ header {
     z-index: 5;
 }
 
-header audio {
-    color: #1D1A21;
-}
-
 .title-text {
     justify-self: left;
 
@@ -147,24 +143,27 @@ h2 {
 }
 
 footer {
-    display: flex;
-    background-color: #1D1A21;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 5vw;
+    border: 20px solid #1D1A21;
+    background-color: #555358;
+    justify-content: center;
+    justify-items: center;
     align-items: center;
+    align-content: center;
     color: white;
     padding: 0.5vw 2vw;
 }
 
 footer p {
-    background-color: #555358;
-    font-size: 2vw;
+    font-size: 2.25vw;
     text-align: left;
     text-transform: uppercase;
     line-height: 1.5;
     font-weight: 900;
     color: white;
     letter-spacing: 0.1vw;
-    padding: 1vw 2vw;
     font-family: "Saira ExtraCondensed", sans-serif;
 }
 
