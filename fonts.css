@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'NotoSansDisplay Condensed';
+    font-style: normal;
+    font-weight: bold;
+    src: url("./Typography/NotoSansDisplay_Condensed-Bold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSansDisplay Condensed';
+    font-style: normal;
+    font-weight: normal;
+    src: url("./Typography/NotoSansDisplay_Condensed-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSansDisplay ExtraCondensed';
+    font-style: italic;
+    font-weight: bold;
+    src: url("./Typography/NotoSansDisplay_ExtraCondensed-BoldItalic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSansDisplay ExtraCondensed';
+    font-style: italic;
+    font-weight: normal;
+    src: url("./Typography/NotoSansDisplay_ExtraCondensed-Italic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSansDisplay ExtraCondensed';
+    font-style: normal;
+    font-weight: normal;
+    src: url("./Typography/NotoSansDisplay_ExtraCondensed-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSansDisplay ExtraCondensed';
+    font-style: normal;
+    font-weight: normal;
+    src: url("./Typography/NotoSansDisplay_ExtraCondensed-SemiBoldItalic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Saira ExtraCondensed';
+    font-style: normal;
+    font-weight: 550;
+    src: url("./Typography/Saira_ExtraCondensed-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Saira ExtraCondensed';
+    font-style: italic;
+    font-weight: normal;
+    src: url("./Typography/Saira_ExtraCondensed-Italic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Saira ExtraCondensed';
+    font-style: italic;
+    font-weight: bold;
+    src: url("./Typography/Saira_ExtraCondensed-BoldItalic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Saira ExtraCondensed';
+    font-style: italic;
+    font-weight: 550;
+    src: url("./Typography/Saira_ExtraCondensed-SemiBoldItalic.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Saira ExtraCondensed';
+    font-style: italic;
+    font-weight: 900;
+    src: url("./Typography/Saira_ExtraCondensed-ExtraBoldItalic.ttf") format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: normal;
+    src: url("./Typography/Saira_Condensed-Medium.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Saira Condensed';
+    font-style: normal;
+    font-weight: bold;
+    src: url("./Typography/Saira_Condensed-Bold.ttf") format('truetype');
+}
